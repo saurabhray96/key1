@@ -1,0 +1,39 @@
+body {
+
+    margin: 0;
+    overflow: hidden;
+    background-image:url(Vnh3SW.jpg);
+    
+  }
+  
+  .planet {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin: 250px 45%;
+  }
+  #sun {
+    box-shadow: 1px 1px 20px 10px rgb(229, 38, 4);
+    width: 150px;
+    height: 150px;
+    background-color: #ff0;
+  }
+  #mercury {
+    box-shadow: 1px 1px 10px 5px rgb(152, 146, 146);
+    background-color: #a9a9a9;
+  }
+  #venus {
+    box-shadow: 1px 1px 10px 5px rgb(234, 134, 5);
+    background-color: #f0a00d;
+  }
+  #earth {
+    box-shadow: 1px 1px 10px 5px rgb(4, 0, 255);
+    background-color: #00f;
+  }
+  #mars {
+    box-shadow: 1px 1px 10px 5px rgb(255, 90, 2);
+    background-color: #ff6347;
+  }
+  
